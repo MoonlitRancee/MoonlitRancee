@@ -32,3 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moonlitrancee&show_icons=true&locale=en" alt="moonlitrancee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moonlitrancee&" alt="moonlitrancee" /></p>
+
+<div align="center">
+<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
